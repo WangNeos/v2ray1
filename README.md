@@ -27,11 +27,6 @@ v3.05 版本，更加好用了。新年快乐！<br />
 <br /></li>
 </ul>
 
-<h2 id="温馨提示">温馨提示</h2>
-
-<p><strong>特么这个脚本没有挖矿，没有挖矿，没有挖矿。</strong> 我很抱歉……认真的开了个玩笑<br />
-脚本是开源的，开源地址： <a href="https://github.com/233boy/v2ray" rel="nofollow" target="_blank">https://github.com/233boy/v2ray</a></p>
-
 <h2 id="功能特点">功能特点</h2>
 
 <ol>
